@@ -1,0 +1,14 @@
+# Git Bash configuration
+.bash_history
+.bashrc
+.bash_profile
+
+# Environment variables
+.env
+
+# Python
+__pycache__/
+*.pyc
+
+# DuckDB temporary files
+*.duckdb.wal
